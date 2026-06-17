@@ -1,1 +1,0 @@
-/home/FekSta/.local/share/mybash/.bashrc
